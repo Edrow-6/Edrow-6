@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edrow-6&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="edrow-6" /> </p>
 
-- 🔭 Je travaille actuellement sur Stolaris
+- 🔭 Je travaille actuellement sur **Stolaris**
 
 - 🌱 Je suis actuellement en train d'apprendre **Storybook**
 
