@@ -5,7 +5,7 @@
 
 - 🔭 Je travaille actuellement sur [Stolaris](https://www.stolaris.cloud)
 
-- 🌱 Je suis actuellement en train d'apprendre **Storybook**
+- 🌱 Je suis actuellement en train d'apprendre **Storybook**, **Ory**, **Strapi**
 
 - ⚡ Fait amusant **je n'arrive pas à ne pas faire les choses biens 🤡**
 
