@@ -7,7 +7,7 @@
 
 - 🌱 Je suis actuellement en train d'apprendre **Storybook**
 
-- ⚡ Fait amusant **je n'ai pas de job, malgré mes compétences**
+- ⚡ Fait amusant **je n'arrive pas à ne pas faire les choses biens 🤡**
 
 <h3 align="left">Restez connecté :</h3>
 <p align="left">
