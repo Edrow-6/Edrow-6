@@ -5,9 +5,9 @@
 
 - 🔭 Je travaille actuellement sur [Stolaris](https://www.stolaris.cloud)
 
-- 🌱 Je suis actuellement en train d'apprendre **Vuejs 3**, **Nextjs**
+- 🌱 Je suis actuellement en train de me spécialiser dans **Nextjs**
 
-- ⚡ Fait amusant **je n'arrive pas à ne pas faire les choses biens 🤡**
+- ⚡ Fait amusant **mes projets montrant mes compétences sont privés 🤡**
 
 <h3 align="left">Restez connecté :</h3>
 <p align="left">
