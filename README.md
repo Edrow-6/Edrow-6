@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edrow-6&label=Vues%20du%20profil&color=009dff&style=flat" alt="edrow-6" /> </p>
 
-- 🔭 Je travaille actuellement sur [Stolaris](https://www.stolaris.cloud)
+- 🔭 Je travaille actuellement chez [APEXI](https://apexi.fr)
 
-- 🌱 Je suis actuellement en train de me spécialiser dans **VueJS**
+- 🌱 Je suis spécialisé dans **Laravel** et **React (TS)**
 
 - ⚡ Fait amusant **mes projets montrant mes compétences sont privés 🤡**
 
