@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis Cédric</h1>
-<h3 align="center">Un développeur fullstack qui se spécialise dans VueJS et Laravel</h3>
+<h3 align="center">Un développeur fullstack Laravel, React, Figma</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edrow-6&label=Vues%20du%20profil&color=009dff&style=flat" alt="edrow-6" /> </p>
 
